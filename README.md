@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hey 👋, I'm Sarah</h1>
 <h3 align="center">AI & Data Science Student 🚀 | Responsible & Explainable AI</h3>
 
